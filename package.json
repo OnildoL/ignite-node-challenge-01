@@ -1,0 +1,13 @@
+{
+  "name": "challenge-01",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "node --watch src/main/server.js"
+  },
+  "keywords": [],
+  "author": "Onildo de Lima Gonçalves",
+  "license": "ISC"
+}
